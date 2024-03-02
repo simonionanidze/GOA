@@ -100,7 +100,7 @@ def draw_stick_figure(x, y):
     forward(30)
     backward(30)
     left(90)
-    forward(30)
+    forward(30)    
     backward(30)
 
 
@@ -108,12 +108,7 @@ width(10)
 
 draw_stick_figure(0, 0)
 
-exitonclick()
-
-
-
-
-
+exitonclick()    
 
 
 
